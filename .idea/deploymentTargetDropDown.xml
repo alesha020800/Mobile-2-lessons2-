@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="MainActivity">
+        <State />
+      </entry>
+      <entry key="MainActivity (1)">
+        <State />
+      </entry>
+      <entry key="MainActivity (2)">
+        <State />
+      </entry>
+      <entry key="MainActivity (3)">
+        <State />
+      </entry>
+      <entry key="SecondActivity">
+        <State />
+      </entry>
+      <entry key="activitylifecycle">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="dialog">
+        <State />
+      </entry>
+      <entry key="intentfilter">
+        <State />
+      </entry>
+      <entry key="multiactivity">
+        <State />
+      </entry>
+      <entry key="notificationapp">
+        <State />
+      </entry>
+      <entry key="toastapp">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
